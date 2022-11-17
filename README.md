@@ -8,3 +8,14 @@ this is test Github's readme 1
 [![issue badge](https://img.shields.io/github/issues/apache/age)](https://github.com/apache/age/issues)
 [![forks badge](https://img.shields.io/github/forks/apache/age)](https://github.com/apache/age/network/members)
 [![stars badge](https://img.shields.io/github/stars/apache/age)](https://github.com/apache/age/stargazers)
+<p align="center">                                                                                                    
+  <a href="https://github.com/apache/age/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/apache/age-viewer"/>
+  </a>
+   &nbsp;
+  <a href="https://github.com/apache/age/stargazers">
+    <img src="https://img.shields.io/github/stars/apache/age-viewer"/>
+  </a>  
+  
+  </p>
+  
