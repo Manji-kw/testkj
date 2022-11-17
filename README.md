@@ -28,12 +28,9 @@ this is test Github's readme 1
 </p>
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-  &nbsp;
-  <a href="https://github.com/apache/age/blob/master/LICENSE">
+[![license badge])(https://github.com/apache/age/blob/master/LICENSE)
     <img src="https://img.shields.io/github/license/apache/age-viewer"/>
-  </a>
-   &nbsp;
+[![stars badge]
   <a href="https://github.com/apache/age/stargazers">
     <img src="https://img.shields.io/github/stars/apache/age-viewer"/>
 </p>
