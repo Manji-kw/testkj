@@ -7,6 +7,6 @@
   
 # Goal of Apache AGE Viewer
 
-Apache AGE Viewer is graph visualisation tool, for [Apache AGE](http://github/apache/age#). 
-This is a sub-project of [the Apache AGE project](https://age.apache.org/#).
+Apache AGE Viewer is graph visualisation tool, for [Apache AGE](http://github/apache/age). 
+This is a sub-project of [the Apache AGE project](https://age.apache.org).
 
