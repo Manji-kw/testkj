@@ -29,7 +29,6 @@ this is test Github's readme 1
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-<p> 
   &nbsp;
   <a href="https://github.com/apache/age/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/apache/age-viewer"/>
@@ -37,7 +36,7 @@ this is test Github's readme 1
    &nbsp;
   <a href="https://github.com/apache/age/stargazers">
     <img src="https://img.shields.io/github/stars/apache/age-viewer"/>
- 
+</p>
 # Goal of Apache AGE Viewer
 
 Apache AGE Viewer is graph visualisation tool, for [Apache AGE](https://age.apache.org/#). 
